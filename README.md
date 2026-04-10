@@ -3,7 +3,7 @@ SQL project analyzing sales data to extract business insights like top customers
 Tools Used
 - MySQL
 - SQL
-Key Insights
+# Key Insights
 - Identified top customers by sales
 - Analyzed region-wise sales performance
 - Found top-performing products
